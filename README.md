@@ -23,6 +23,10 @@
 
 * [Screen aplikacji webowej](https://drive.google.com/file/d/13NUKk38MrTJ4rrOktd_XOJ99mKRYTXJK/view?usp=sharing)
 
+* [Wykres skorelowany wielkości zanieczyszczenia powietrza do temperatury powietrza](https://docs.google.com/spreadsheets/d/167nGsn8j3x7hkC7C-itHLdJzvqwGPpGi6IAH7wwsGF4/edit?usp=sharing)
+
+* [Render modelu 3D](https://drive.google.com/file/d/1cNDW7VrugMn9FhHvyJxgASWUzGqv-lLC/view?usp=sharing)
+
 ## Wymagane biblioteki (python):
 
 * Adafruit_DHT
