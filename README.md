@@ -19,9 +19,9 @@
 
 ## Działanie
 
-* [Działanie skryptu](https://drive.google.com/file/d/1LgpNxWG2-jwU39C61nCY23lnwaoA2ITb/view?usp=sharing) <- klik
+* [Działanie skryptu](https://drive.google.com/file/d/1LgpNxWG2-jwU39C61nCY23lnwaoA2ITb/view?usp=sharing)
 
-![Aplikacja Webowa - zrzut ekranu](https://drive.google.com/file/d/13NUKk38MrTJ4rrOktd_XOJ99mKRYTXJK/view?usp=sharing "Aplikacja Webowa")
+* [Screen aplikacji webowej](https://drive.google.com/file/d/13NUKk38MrTJ4rrOktd_XOJ99mKRYTXJK/view?usp=sharing)
 
 ## Wymagane biblioteki (python):
 
