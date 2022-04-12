@@ -1,11 +1,9 @@
 # Stacja Meteorologiczna
 
-Repozytorium pracy dyplomowej pod tytułem ***Model 3D stacji meteorologicznej wraz z implementacją aplikacji webowej***.
-
 ## Wykorzystane języki programowania:
 
 * Python
-* C++
+* C++ (Arduino)
 
 ## Użyte oprogramowanie
 
@@ -21,13 +19,15 @@ Repozytorium pracy dyplomowej pod tytułem ***Model 3D stacji meteorologicznej w
 
 ## Działanie
 
-Adres www aplikacji: [stacjameteorologiczna.online](http://stacjameteorologiczna.online/)
+* [Działanie skryptu](https://drive.google.com/file/d/1LgpNxWG2-jwU39C61nCY23lnwaoA2ITb/view?usp=sharing) <- klik
+
+![Aplikacja Webowa - zrzut ekranu](https://drive.google.com/file/d/13NUKk38MrTJ4rrOktd_XOJ99mKRYTXJK/view?usp=sharing "Aplikacja Webowa")
 
 ## Wymagane biblioteki (python):
 
 * Adafruit_DHT
 * BMP280
 
-## Autorzy
+## Autor
 
-* **Jakub Grzybek** - *Model 3D, Projekt układu elektronicznego, Programowanie Stacji Meteorologicznej* - [Grzybasinski](https://github.com/Grzybasinski)
+* **Jakub Grzybek** - *Model 3D, Projekt układu elektronicznego, Programowanie Stacji Meteorologicznej*
